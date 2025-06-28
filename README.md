@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## <a href="https://www.linkedin.com/in/jacky-z-b77261297"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-Good Day, I'm Jacky, cybersecurity graduate with solid understanding of CIA triad, ISO 270001 framework, as well as acquiring foundation knowledge of red team, blue team and penetration test skills from a compresenvie security dlipoma program. Currently, I have over 3 months of hands-on experience in threat detection, incident response, and security monitoring through a cloud-based SOC lab. Also proficient in SIEM, EDR, Network analysis, and SOAR automation. Developed 10+ detection rules, mitigated simulated ransomware/phishing/brute-force attacks, and automated IR playbooks. Hold certification in CompTIA Security+ and SOC Level 1. 
+Good Day, I'm Jacky, a cybersecurity graduated with a solid understanding of CIA triad, ISO-270001 framework, as well as having acquired foundation knowledge of red team, blue team, and penetration test skills from a comprehensive security diploma program. Currently, I have over 3 months of hands-on experience in threat detection, incident response, and security monitoring through a cloud-based SOC lab. Also proficient in SIEM, EDR, Network analysis, and SOAR automation. Developed 10+ detection rules, mitigated simulated ransomware/phishing/brute-force attacks, and automated IR playbooks. Hold certification in CompTIA Security+ and SOC Level 1. 
 
-Feel free to check out my LinkedIn profile above and connect to explore the real-world of cybersecurity!
+Feel free to check out my LinkedIn profile above and connect to explore the real world of cybersecurity!
 
 ## Objective
 My journey in dealing with IT has ignited a passion for cybersecurity, particularly in Information and Data Security Management at Blue Teaming. 
 
-Aiming to transition into cybersecurity position as a blue teaming, such as a **SOC** or related position.
+Aiming to transition into a cybersecurity position as a blue teaming, such as a **SOC** or related position.
 
 ## Skills
 | Skill                                         | Associated Project         |
