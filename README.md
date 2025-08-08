@@ -4,8 +4,8 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[SIEM Deployment](https://test)**
-- **[Honeypot to Catch The Attack](https://test)**
+- **[Splunk SIEM Deployment & Detect Brute Force Attack](https://github.com/zerodaygpt/SIEM-Deployment-And-Detect-Brute-Force-Attack)**
+- **[Honeypot to Catch The Attack](https://github.com/zerodaygpt/zerodaygpt)**
 
 ## ⚠️ Vulnerability Management Projects
 
