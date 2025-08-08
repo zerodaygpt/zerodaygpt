@@ -1,40 +1,22 @@
-<!-- ## Hi there 👋
-**zerodaygpt/zerodaygpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Jacky Zhao](https://www.linkedin.com/in/jacky-z-b77261297/) IT and Cybersecurity Project Portfolio 🔐
 
-Here are some ideas to get you started:
+I’m deeply committed to cybersecurity and enjoy tackling complex challenges through hands-on projects. From threat detection to vulnerability management, these experiences have allowed me to explore the ever-evolving cybersecurity landscape. I invite you to take a look and see how I’ve worked to enhance security operations and processes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚨 Threat Hunting and Security Operations
 
+- **[SIEM Deployment](https://test)**
+- **[Honeypot to Catch The Attack](https://test)**
 
-## <a href="https://www.linkedin.com/in/jacky-z-b77261297"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## ⚠️ Vulnerability Management Projects
 
-## Introduction
-Good Day, I'm Jacky, a cybersecurity graduated with a solid understanding of CIA triad, ISO-270001 framework, as well as having acquired foundation knowledge of red team, blue team, and penetration test skills from a comprehensive security diploma program. Currently, I have over 3 months of hands-on experience in threat detection, incident response, and security monitoring through a cloud-based SOC lab. Also proficient in SIEM, EDR, Network analysis, and SOAR automation. Developed 10+ detection rules, mitigated simulated ransomware/phishing/brute-force attacks, and automated IR playbooks. Hold certification in CompTIA Security+ and SOC Level 1. 
+- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[OSINT and Basic Penetration](https://test)**
 
-Feel free to check out my LinkedIn profile above and connect to explore the real world of cybersecurity!
+## 🛡 Incident Response with Microsoft Sentinel
 
-## Objective
-My journey in dealing with IT has ignited a passion for cybersecurity, particularly in Information and Data Security Management at Blue Teaming. 
+- Coming Soon
 
-Aiming to transition into a cybersecurity position as a blue teaming, such as a **SOC** or related position.
-
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🤳 Connect With Me
 
 ## Framework
 <div>
@@ -77,6 +59,3 @@ Aiming to transition into a cybersecurity position as a blue teaming, such as a 
 <img src="https://img.shields.io/badge/PMP-00465A?style=for-the-badge&logo=bookstack&logoColor=white" alt="PMP Certification"/>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
