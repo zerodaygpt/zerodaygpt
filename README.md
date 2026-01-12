@@ -7,12 +7,10 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 - **[Splunk SIEM Deployment & Detect Brute Force Attack](https://github.com/zerodaygpt/SIEM-Deployment-And-Detect-Brute-Force-Attack)**
 - **[Honeypot to Catch The Attack](https://github.com/zerodaygpt/zerodaygpt)**
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/zerodaygpt/Vulnerability-Management-Program-Implementation/tree/main)**
-- **[OSINT and Basic Penetration](https://github.com/zerodaygpt/OSINT-Project/tree/main)**
-- **[Vulnerability Management - Wazuh Scan](https://github.com/zerodaygpt/OSINT-Project/tree/main)**
+## ⚠️ Vulnerability Management and Prenetration Projects
 - **[Vulnerability Management Program - Tenable Scan](https://github.com/zerodaygpt/Vulnerability-Management-Program-Implementation---Tenable/tree/main#)**
+- **[OSINT](https://github.com/zerodaygpt/Vulnerability-Management-Program-Implementation/tree/main)**
+- **[Penetration](https://github.com/zerodaygpt/OSINT-Project/tree/main)**
 
 ## 🛡 Incident Response with Microsoft Sentinel
 
