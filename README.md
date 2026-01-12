@@ -3,7 +3,7 @@
 I’m deeply committed to cybersecurity and enjoy tackling complex challenges through hands-on projects. From threat detection to vulnerability management, these experiences have allowed me to explore the ever-evolving cybersecurity landscape. I invite you to take a look and see how I’ve worked to enhance security operations and processes!
 
 ## 🚨 Threat Hunting and Security Operations
-
+- **[Azure Threat Hunting](https://github.com/zerodaygpt/Threat-Hunting)**
 - **[Splunk SIEM Deployment & Detect Brute Force Attack](https://github.com/zerodaygpt/SIEM-Deployment-And-Detect-Brute-Force-Attack)**
 - **[Honeypot to Catch The Attack](https://github.com/zerodaygpt/zerodaygpt)**
 
